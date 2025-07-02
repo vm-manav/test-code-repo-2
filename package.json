@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "astro": "^2.3.0",
-		"test":"1234"
+		"test":"12"
   }
 }
